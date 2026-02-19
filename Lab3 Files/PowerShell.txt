@@ -1,4 +1,4 @@
-PowerShell
+#PowerShell
 
 PowerShell Logo goes here
 
@@ -35,14 +35,14 @@ Version:Release Year:Key Features
 6.0:2018:Known as PowerShell Core 6.0. First cross-platform version.
 7.0:2020:Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.
 
-Version Summary
+###Version Summary
 Windows PowerShell: Versions 1.0 to 5.1 (Windows-only).
 PowerShell Core: Versions 6.0 and above (cross-platform).
 
 
-PowerShell for Beginners
+##PowerShell for Beginners
 
-Basic Commands to Get Started
+###Basic Commands to Get Started
 
 Get-Command: Lists all available commands.
 Get-Help: Provides help information for commands.

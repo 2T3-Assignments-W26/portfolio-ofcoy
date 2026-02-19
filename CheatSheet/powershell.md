@@ -1,12 +1,12 @@
 # PowerShell
 
-PowerShell Logo goes here
+![alt text](image-2.png)
 
 About PowerShell
 
-**PowerShell** is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the .NET framework, **PowerShell** is both a **_command-line tool_** and **_a scripting environment_**, making it a versatile tool for programmers and system administrators.#
+**[PowerShell](https://docs.microsoft.com/en-us/powershell/)** is a powerful command-line shell and scripting language developed by Microsoft. It is designed to help users automate tasks, manage systems, and perform administrative tasks efficiently. Built on the [.NET framework](https://learn.microsoft.com/en-us/dotnet/framework/get-started/overview), **PowerShell** is both a **_command-line tool_** and **_a scripting environment_**, making it a versatile tool for programmers and system administrators.#
 
-_"PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project." ( from the interview with Jeffrey Snover, PowerShell Inventor)_
+[_"PowerShell is great because we had a series of rockstar engineers add their awesomeness to the project." ( from the interview with Jeffrey Snover, PowerShell Inventor)_](https://evrone.com/blog/jeffrey-snover-interview)
 
 Why Learn PowerShell?
 PowerShell is an essential tool for:
@@ -92,7 +92,7 @@ Support for Git and other version control systems.
 Cross-platform (Windows, macOS, Linux).
 Best for: Modern PowerShell development, especially with PowerShell 7 and cross-platform scripting.
 
-VSCode Image goes here
+![alt text](image-1.png)
 
 Useful Resources for Learning PowerShell
 Official PowerShell Documentation
