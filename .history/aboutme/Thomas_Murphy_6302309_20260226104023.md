@@ -1,0 +1,34 @@
+# Thomas Murphy
+
+Montreal Canada | 438-506-2067 | tturphy123@gmail.com
+
+### professional summary
+
+Customer service in many different ways, I have done a lot of jobs where i communicate constantly with clients and it is for sure my strong suit
+
+### work history
+
+**customer service**
+
+- **worked at tim hortons** (2019-2020)
+  - Janitor was in charge of maintenance and upkeep of the workplace
+
+- **work at canadian tire**(2024-now)
+  - Work helping customers with a year of experience with a multitude of other things related to the job such as stocking shelves working in the warehouse and dealing with on floor duties
+
+- **work at sushi buffet called hanami**(2025-now)
+  - served customers in a high paced buffet, made some of the food, and would clean up tables.
+
+## Skills
+
+| Technical           | Communications       |
+| ------------------- | -------------------- |
+| good under pressure | sales expertise      |
+| programming C#      | great with customers |
+
+## Education
+
+| Degree                 | School      | year     |
+| ---------------------- | ----------- | -------- |
+| Highschool             | St.Thomas   | 2024     |
+| Cegep computer science | John Abbott | 2024-now |
